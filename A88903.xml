@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of Collnel Massey's letter: of all the particulars of the great fight betweene him, and Prince Rupert, at Ledbury on Wednesday the 22.th of Aprill, 1645. With the number and names of the chiefe of those that were killed, and taken on both sides. As also the taking of 10 peece of ordnance by Collonel Massey at Lydney. Die Jovis Maii, 1. 1645. Commanded to be printed, and is published according to order.</title>
+            <author>Massey, Edward, Sir, 1619?-1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88903</idno>
+            <idno type="STC">Wing M1031</idno>
+            <idno type="STC">Thomason E281_9</idno>
+            <idno type="STC">ESTC R200041</idno>
+            <idno type="EEBO-CITATION">99860844</idno>
+            <idno type="PROQUEST">99860844</idno>
+            <idno type="VID">112969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112969)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E281[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of Collnel Massey's letter: of all the particulars of the great fight betweene him, and Prince Rupert, at Ledbury on Wednesday the 22.th of Aprill, 1645. With the number and names of the chiefe of those that were killed, and taken on both sides. As also the taking of 10 peece of ordnance by Collonel Massey at Lydney. Die Jovis Maii, 1. 1645. Commanded to be printed, and is published according to order.</title>
+                  <author>Massey, Edward, Sir, 1619?-1674?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho: Forcet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>Ledbury (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112969:1"/>
+            <!-- PDF PAGE 115 -->
+            <pb facs="tcp:112969:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <p>A COPIE OF COLLNEL MASSEYS LETTER: Of all the particulars of the great Fight betweene him, and Prince RVPERT, at <hi>Ledbury</hi> on <hi>Wedneſday</hi> the 22.<hi rend="sup">th</hi> of <hi>Aprill,</hi> 1645.</p>
+            <p>With the number and Names of the Chiefe of thoſe that were Killed, and taken on both ſides. AS ALSO The taking of to Peece of Ordnance by Collonel MASSEY at <hi>Lydney.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis Maii, 1. 1645.</date>
+                           </dateline>
+                        </opener>
+                        <p>Commanded to be Printed, and is publiſhed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed by THO: FORCET, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112969:2"/>
+            <!-- PDF PAGE 116 -->
+            <pb n="1" facs="tcp:112969:2"/>
+            <!-- PDF PAGE 116 -->
+            <head>A Copie of Collonel MASSEY'S <hi>Letter.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR:</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">O</seg>N <hi>Tueſday</hi> laſt the 21<hi rend="sup">th</hi>. of this inſtant <hi>Aprill, an Dom.</hi> 1645. Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> marching all that Night came the next Morning, <hi>Wedneſday</hi> the 22<hi rend="sup">th</hi>. before <hi>Ludbury;</hi> where J then was, but the Enemy intercep<g ref="char:EOLhyphen"/>ting 8. Scouts, we had no Intelligence, till they were neere at hand. The Enemy advan<g ref="char:EOLhyphen"/>ced,
+<pb n="2" facs="tcp:112969:3"/>
+                     <!-- PDF PAGE 117 -->and charged into the Towne upon us; and my ſelfe (with divers Gentlemen. <hi>viz.</hi> Major <hi>Harlow,</hi> Lieutenant Collonel <hi>Kerle,</hi> Major <hi>Bacchus,</hi> Captaine <hi>Gifford,</hi> Captaine <hi>Mo<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi> and Captaine <hi>Baily,</hi> with ſome others and ſome common Souldiers, with the aſſi<g ref="char:EOLhyphen"/>ſtance of 200 Musketiers out of the County forces received them; And ſo ſoone as we received the Alarme, we drew out upon them, and marching cloſe up to them, fell on them, beat them to a retreat, and made it good a<g ref="char:EOLhyphen"/>gainſt them, ſo long till my Foot might re<g ref="char:EOLhyphen"/>treat a ſecure way to <hi>Gloceſter.</hi> After the foot we marched off, and out of the towne we had two or three hot Charges upon them, where we ſlew neere 40 of the Enemies men, and the moſt of them that were killed were Officers, at which Charge (as it ſeemes) the Lord <hi>Haſtings</hi> with ſome others of quality were ſlaine. On our part wee had very few killed not above 6 or 7. But J was inforced my ſelf ſtill to Charge in the head of all my troopes to encourage all the <hi>Warwicke</hi> and
+<pb n="3" facs="tcp:112969:3"/>
+                     <!-- PDF PAGE 117 -->
+                     <hi>Northampton</hi> horſe; J and my Officers berring the heate of the day.</p>
+                  <p>At length, intending to retreat to our place of advantage (ſome horſe of thoſe fent to me not ſtanding to it, as they ſhould have done) the Eneme got in amongſt our Foot; but we redeemed that againe, and marched off into the field.</p>
+                  <p>The Enemy have ſent us a liſt of the Priſo<g ref="char:EOLhyphen"/>ners which they tooke from us: the number by their own liſt is 110 Priſoners, but above 80 of thoſe were none of my men, only ſuch Country people as they ſwept away with them in their retreats, that did never beare Armes, only they carried them away to cauſe them by money, or making friends for ex<g ref="char:EOLhyphen"/>change to redeeme themſelves: my Major, Serjeant major <hi>Bacchus</hi> is deſperatly woun<g ref="char:EOLhyphen"/>ded in the head, and was carried away Pri<g ref="char:EOLhyphen"/>ſoner by the Enemy to <hi>Hereford.</hi> Major. <hi>Har<g ref="char:EOLhyphen"/>low</hi> had a ſleight wound in the head, and an<g ref="char:EOLhyphen"/>other in the arme, but came bravely off; Captain <hi>Baily</hi> and Captain <hi>Foſter,</hi> with ſome
+<pb n="4" facs="tcp:112969:4"/>
+                     <!-- PDF PAGE 118 -->other common men of ours are taken Priſo<g ref="char:EOLhyphen"/>ners by them. J have ſent for their freedome by exchange of ſome of thoſe Priſoners J tooke from them, many of them being of quality, enow to redeeme them all if they were thrice as many.</p>
+                  <p>Prince <hi>Rupert</hi> ſent me word by my Trum<g ref="char:EOLhyphen"/>petter that J ſent, that in the fight he ſought me out, but knew not till after, no more then J knew him. But it ſeemes we charged each other, and he ſhot my horſe under me, and J did as much for him. At that Charge many Commanders of theirs fell.</p>
+                  <p>Prince <hi>Rupert</hi> is (J heare) very much enra<g ref="char:EOLhyphen"/>ged to undertake ſo great and toileſome a march, and ſo much to miſſe his end. J had by Gods bleſſing my intentment, and ſtopt his preſent march Northward, to God be the glory.</p>
+                  <p>Prince <hi>Ruperts</hi> Army by the report of the Countrey, is noiſed about to be 6 or 7000 Horſe and Foot: who are now upon their march againe towards <hi>Ludlow,</hi> and ſo, as J
+<pb n="5" facs="tcp:112969:4"/>
+                     <!-- PDF PAGE 118 -->heare, intend for <hi>Salop,</hi> if they bee not pre<g ref="char:EOLhyphen"/>vented againe, which muſt be by a more conſiderable ſtrength then J have.</p>
+                  <p>The forces that were with me, were in all about 5000 Foot, and 350 Horſe, nor were theſe all with me at <hi>Lydbury,</hi> for my Guards were not come up.</p>
+                  <p>The Enemy brag little of their getting, but lament much; the Names of the Comman<g ref="char:EOLhyphen"/>ders and Officers that were ſlaine by us, J ſhall ſend you by the next.</p>
+                  <closer>
+                     <dateline>
+                        <date>Aprill the 25. 1645.</date>
+                     </dateline>
+                     <signed>Your humble Servant, <hi>E. MASSEY.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <head>Poſtſcript.</head>
+                     <p>MY laſt letter told you that <hi>Lydney</hi> houſe was ſtred and Sir <hi>Iohn Winter</hi> ran away by the light of the flames, and for haſt over-ran 2 of his great Gunnes, one demy Culverin one Sakre, and three braſes of Iron mur<g ref="char:EOLhyphen"/>derers, which he left behind at <hi>Lydney</hi> to do a curteſy. Sir <hi>Iohn</hi> fired all the way he went, till our forces drove them to <hi>Cheſter</hi> purſuing him over the bridge.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>VVHereas ſome Malignants have noyſed abroad that a great defeat hath been given to Collo<g ref="char:EOLhyphen"/>nel <hi>Maſsey;</hi> and have been ſo bold as to report it to have come from Collonel <hi>Maſſeyes</hi> own mouth, and
+<pb n="6" facs="tcp:112969:5"/>
+               <!-- PDF PAGE 119 -->that he having loſt 150 Priſoners retreated to <hi>Gloce<g ref="char:EOLhyphen"/>ſter,</hi> that himſelfe was wounded; flying away with <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> horſe which is ſo falſe; and full of poyſon and Ma<g ref="char:EOLhyphen"/>lignancy, to deſparage the proceedings of that g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lant Gentleman that I dare warrant you it hath been draw<g ref="char:EOLhyphen"/>en out from <hi>Oxford,</hi> onely to leſſon the honourable Victories Collonel <hi>Maſſey</hi> hath obtained with but, an handfull of men. It is therefore thought fit that this letter (comming from Collonel <hi>Masſey</hi> himſelf the ſame being alſo confirmed by divers other let<g ref="char:EOLhyphen"/>ters) ſhould be Printed and publiſhed to make thoſe Malignants aſhamed, who have formented ſuch abo<g ref="char:EOLhyphen"/>minable, and filthy lies; which however thoſe viners ſeeke to poyſon us by being permitted in the boſome of the City, yet a ſudden courſe will be taken with them.</p>
+            <p>The Malignants have not onely done ſo in this bu<g ref="char:EOLhyphen"/>ſineſſe of Collonel <hi>Masſey</hi> but in divers other things, and when we have notice of ſome Victory obtained by any of the Parliaments forces, then preſently they rayſe ſome lye or other of a ſecond charge or ſomething they will have to leſſon or extennate the former.</p>
+            <p>I wonder how any impudent Malignant that hath ſtood ſo ſtiffe in charging ſo great a loſſe (as hath been reported upon Collonel <hi>Maſsey,</hi>) can for ſhame ſhew their faces to thoſe they reported it.</p>
+            <p>But hereafter other manner of courſe wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en with the broachers and fomenters of ſuch Malignant lies.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
